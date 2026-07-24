@@ -9,5 +9,9 @@ Currently, I'm expanding my skills in programming, machine learning, data analyt
 ## 👾 **Build. Learn. Optimize. Share.**
 
 <p align="center">
-  <img width="1000" height="150" alt="abdiel_alien" src="https://github.com/user-attachments/assets/7979c53e-8a37-4a9c bae1-8c6b867546db" />
+  <img
+    src="https://github.com/user-attachments/assets/b0473876-70b1-49f3-9a75-cda5f8320ba8"
+    width="150"
+    alt="Abdiel Alien"
+  />
 </p>
