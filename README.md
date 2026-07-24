@@ -1,4 +1,5 @@
 ## Hi, I'm Abdiel 👋👾
+<img width="1672" height="941" alt="4dab77ce-becf-4171-85e2-08bc70d5ae83" src="https://github.com/user-attachments/assets/ce3c5262-3cfe-4189-9e48-21e49c13a170" />
 
 <!--
 **Abdielo23/Abdielo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
