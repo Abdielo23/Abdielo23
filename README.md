@@ -1,17 +1,14 @@
 ## Hi, I'm Abdiel 👋👾
 <img width="1672" height="941" alt="4dab77ce-becf-4171-85e2-08bc70d5ae83" src="https://github.com/user-attachments/assets/ce3c5262-3cfe-4189-9e48-21e49c13a170" />
 
-<!--
-**Abdielo23/Abdielo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Industrial Engineer interested in the intersection of **technology, data, AI, and business**.
 
-Here are some ideas to get you started:
+I enjoy building open-source tools that use data, optimization, and technology to solve real-world problems and help people make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in exploring how **AI and data-driven systems can improve financial decision-making, optimize resources, and make complex information more accessible**.
+
+I believe engineering is ultimately about finding better ways to do things — whether that's improving a process, analyzing data, optimizing a system, or building something entirely new.
+
+Currently, I'm expanding my skills in **programming, machine learning, data analytics, and optimization** while working on projects that turn ideas into practical tools.
+
+👾 **Build. Learn. Optimize. Share.**
