@@ -7,3 +7,7 @@ I enjoy building open-source tools that use data, optimization, and technology t
 Currently, I'm expanding my skills in programming, machine learning, data analytics, and optimization while working on projects that turn ideas into practical tools.
 
 ## 👾 **Build. Learn. Optimize. Share.**
+
+<p align="center">
+  <img width="1000" height="150" alt="abdiel_alien" src="https://github.com/user-attachments/assets/7979c53e-8a37-4a9c bae1-8c6b867546db" />
+</p>
